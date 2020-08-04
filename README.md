@@ -22,3 +22,5 @@ Step 3.
 Step4. Create architecture of CNN model and set some parameter values.
 
 Step 5. Run the Code and It will give you the results and graphs.
+
+For getting the dataset Contact on this mail id = ravi9610155875@gmail.com
